@@ -11,3 +11,5 @@ export default class TextBoxApp extends Component {
     )
   }
 }
+
+// https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc/72526849#72526849
