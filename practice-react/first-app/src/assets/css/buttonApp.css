@@ -1,0 +1,21 @@
+#button-app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button-app div {
+    width: 50%,
+}
+
+#button-app button {
+    font-size: larger;
+    width: 100px;
+    padding: 8px;
+}
+
+#button-app div button:first-child {
+    margin-right: 16px !important;
+}

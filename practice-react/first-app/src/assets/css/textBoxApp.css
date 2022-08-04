@@ -1,0 +1,21 @@
+#text-box-app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text-box-app div {
+    width: 50%,
+}
+
+#text-box-app button {
+    font-size: larger;
+    width: 100px;
+    padding: 8px;
+}
+
+#text-box-app div button:first-child {
+    margin-right: 16px !important;
+}
